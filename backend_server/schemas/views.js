@@ -1,6 +1,6 @@
 export default {
-    name: 'views',
-    title: 'Views',
+    name: 'vews_clients',
+    title: 'Vews_clients',
     type: 'document',
     fields: [
         {
